@@ -1,0 +1,14 @@
+.amarillo{
+	background-color: yellow;
+}
+.rojo{
+	background-color: red;
+}
+.amarillo, .rojo{
+	height: 100px;
+	width: 180px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	display: inline;
+}
